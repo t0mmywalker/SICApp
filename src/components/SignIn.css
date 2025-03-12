@@ -1,0 +1,33 @@
+.signInContainer {
+  background: #fff;
+  width: 350px;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.signInForm {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.signInForm input {
+  margin: 8px 0;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.signInForm button {
+  margin-top: 10px;
+  padding: 12px;
+  background-color: #007aff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
